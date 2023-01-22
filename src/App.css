@@ -1,0 +1,11 @@
+*,
+*:before,
+*:after {
+  box-sizing: border-box;
+}
+
+main {
+  text-align: center;
+  vertical-align: center;
+  line-height: 100vh;
+}
